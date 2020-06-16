@@ -1,0 +1,26 @@
+# For reference/study
+
+## Visualizing data
+
+--> Plotting with Python: learn 80 plots STEP by STEP
+https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+
+--> A simple tutorial to data visualization
+https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization
+
+
+## Machine Learning
+
+--> A simple and effective approach to ML
+https://www.kaggle.com/sid2412/a-simple-and-effective-approach-to-ml
+
+--> Aplied Machine Learning
+https://www.kaggle.com/vanshjatana/applied-machine-learning
+
+## Titanic
+
+--> An Interactive Data Science Tutorial
+https://www.kaggle.com/rezaghari/an-interactive-data-science-tutorial
+
+--> How to score 0.8134 🏅 in Titanic Kaggle Challenge
+https://www.ahmedbesbes.com/blog/kaggle-titanic-competition

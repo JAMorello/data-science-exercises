@@ -1,0 +1,73 @@
+carrera_id: identificador único para la carrera
+
+caballo_no: el número asignado a este caballo, en la carrera
+
+caballo_id: identificador único para este caballo
+
+resultado: posición final de este caballo en la carrera
+
+ganó: si el caballo ganó (1) o no (0)
+
+longitud_detrás: posición final, como el número de longitudes de caballo detrás del ganador
+
+caballo_edad: edad actual de este caballo en el momento de la carrera
+
+caballo_país: país de origen de este caballo
+
+caballo_tipo: sexo del caballo, p. 'Gelding', 'Mare', 'Horse', 'Rig', 'Colt', 'Filly'
+
+caballo_rating: número de clasificación asignado por HKJC a este caballo en el momento de la carrera
+
+caballo_equipo: oración que representa el equipo que lleva el caballo en la carrera. Puede encontrar una explicación de los códigos utilizados en el sitio web de HKJC.
+
+peso_declarado: peso declarado del caballo y jinete, en libras
+
+peso_real: peso real llevado por el caballo, en libras
+
+empate: publicar el número de posición del caballo en esta carrera
+
+posision_sec1: posición de este caballo (ranking) en la sección 1 de la carrera
+
+posision_sec2: posición de este caballo (ranking) en la sección 2 de la carrera
+
+posision_sec3: posición de este caballo (ranking) en la sección 3 de la carrera
+
+posision_sec4: posición de este caballo (ranking) en la sección 4 de la carrera, si corresponde
+
+posision_sec5: posición de este caballo (ranking) en la sección 5 de la carrera, si corresponde
+
+posision_sec6: posición de este caballo (ranking) en la sección 6 de la carrera, si corresponde
+
+detrás_sec1: posición de este caballo (longitudes detrás del líder) en la sección 1 de la carrera
+
+detrás_sec2: posición de este caballo (longitudes detrás del líder) en la sección 2 de la carrera
+
+detrás_sec3: posición de este caballo (longitudes detrás del líder) en la sección 3 de la carrera
+
+detrás_sec4: posición de este caballo (longitudes detrás del líder) en la sección 4 de la carrera, si la hay
+
+detrás_sec5: posición de este caballo (longitudes detrás del líder) en la sección 5 de la carrera, si corresponde
+
+detrás_sec6: posición de este caballo (longitudes detrás del líder) en la sección 6 de la carrera, si la hay
+
+tiempo1: tiempo que tarda el caballo en pasar por la primera sección de la carrera (seg.)
+
+tiempo2: tiempo que tarda el caballo en pasar por la segunda sección de la carrera (seg.)
+
+tiempo3: tiempo que tarda el caballo en pasar por la tercera sección de la carrera (seg.)
+
+tiempo4: tiempo que tarda el caballo en atravesar la cuarta sección de la carrera, si corresponde (seg.)
+
+tiempo5: tiempo que tarda el caballo en pasar por la quinta sección de la carrera, si corresponde (seg.)
+
+tiempo6: tiempo que tarda el caballo en pasar la sexta sección de la carrera, si la hay (seg.)
+
+tiempo_finalización: tiempo de finalización del caballo en esta carrera (seg.)
+
+prob_ganar: gana probabilidades para este caballo al comienzo de la carrera
+
+prob_lugar - probabilidades de terminar en un lugar (finalizando en 1ª, 2ª o 3ª posición) para este caballo al comienzo de la carrera
+
+entrenador_id: identificador único del entrenador del caballo en el momento de la carrera
+
+jockey_id: identificador único del jinete que monta el caballo en esta carrera
