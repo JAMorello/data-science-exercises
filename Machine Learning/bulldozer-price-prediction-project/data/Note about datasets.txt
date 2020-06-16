@@ -1,0 +1,2 @@
+TrainAndValid.csv, df_train_preprocessed.csv, df_val_preprocessed.csv, and df_test_preprocessed.csv
+are way too heavy to be pushed to the GitHub repository. They exceeds the GitHub´s max file size of 100MB.
