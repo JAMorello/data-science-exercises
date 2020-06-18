@@ -1,6 +1,6 @@
 # Data science exercises
 
-![Banner](banner003.jpg)
+![Banner](data/banner003.jpg)
 
 ## Kaggle
 - [Titanic - Machine Learning from disaster](https://github.com/JAMorello/data-science-exercises/tree/master/Kaggle/Titanic)
