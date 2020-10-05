@@ -6,7 +6,8 @@ Table of Contents
 =================
 
   * [Projects](#projects)
-    * [Dog Breed Detector](#dog-breed-detector) :exclamation: Lastest project!
+    * [Predictive Text](#predictive-text) :exclamation: Lastest project!
+    * [Dog Breed Detector](#dog-breed-detector)
     * [Bulldozer Price Prediction](#bulldozer-price-prediction)
     * [Heart Disease Prediction](#heart-disease-prediction)
     * [Titanic](#titanic)
@@ -17,6 +18,18 @@ Table of Contents
 
 
 ## Projects
+
+### [Predictive Text](https://github.com/JAMorello/data-science-exercises/tree/master/Predictive%20Text%20Project)
+
+**[Unstructured data]** **[Natural Language Processing]** **[Last update: 01/10/20]**
+
+The source code is available [here](https://github.com/JAMorello/datasciencecoursera/tree/master/Data%20Science%20Capstone)
+
+The Shiny application can be visualized [here](https://jamorello.shinyapps.io/WordPredictor/)
+
+You can see a RMarkdown Report [here](https://rpubs.com/Katriel/dsc-milestone-report)
+
+And presentation slides [here](https://rpubs.com/Katriel/dsc-presentation)
 
 ### [Dog Breed Detector](https://github.com/JAMorello/data-science-exercises/blob/master/Deep%20Learning/dog-breed-identification/dog_breed_detection.ipynb)
 
@@ -80,12 +93,17 @@ Legend: :ballot_box_with_check: Currently doing :white_check_mark: Finished
 
 ### Courses
 
+* :white_check_mark: [Data Science Specialization by John Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
+Repository with all course assignments: [here](https://github.com/JAMorello/datasciencecoursera)
+All certifications of the course: [here](https://github.com/JAMorello/data-science-exercises/tree/master/Certificates/Data%20Science%20Specialization)
 * :white_check_mark: [Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Python%20ZTM.pdf)
 * :white_check_mark: [Complete Machine Learning and Data Science: Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Machine%20Learning%20ZTM.pdf)
 * [Statistics 110: Probability](https://www.edx.org/course/introduction-to-probability)
 * [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 
-### Videos
+### Video series
 
 * :ballot_box_with_check: [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * [MIT RES.6-012 Introduction to Probability, Spring 201](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
