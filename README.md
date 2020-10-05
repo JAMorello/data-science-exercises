@@ -21,9 +21,9 @@ Table of Contents
 
 ### [Predictive Text](https://github.com/JAMorello/data-science-exercises/tree/master/Predictive%20Text%20Project)
 
-**[Unstructured data]** **[Natural Language Processing]** **[Last update: 01/10/20]**
+**[Unstructured data]** **[Natural Language Processing]** **[R]** **[Last update: 01/10/20]**
 
-This is the Data Science Capstone project of the Data Science Specialization on Coursera. The goal of the capstone project was to create an algorithm for predicting the next word given one or more words (a phrase/sentence) as input. Natural language processing techniques were be used to perform an analysis and to build a predictive model. A large corpus of more than 4 million documents was loaded, sampled, tokenized and analyzed. N-grams (1 to 4) were extracted from the corpus and then used for building the predictive model.
+This is the Data Science Capstone project of the Data Science Specialization on Coursera. Using R, the goal of the capstone project was to create an algorithm for predicting the next word given one or more words (a phrase/sentence) as input. Natural language processing techniques were be used to perform an analysis and to build a predictive model. A large corpus of more than 4 million documents was loaded, sampled, tokenized and analyzed. N-grams (1 to 4) were extracted from the corpus and then used for building the predictive model.
 
 The Shiny application can be visualized [here](https://jamorello.shinyapps.io/WordPredictor/)
 
@@ -31,7 +31,7 @@ You can see a RMarkdown Report [here](https://rpubs.com/Katriel/dsc-milestone-re
 
 ### [Dog Breed Detector](https://github.com/JAMorello/data-science-exercises/blob/master/Deep%20Learning/dog-breed-identification/dog_breed_detection.ipynb)
 
-  **[Unstructured data]** **[Multiple Categories Problem]** **[Last update: 24/06/20]**
+  **[Unstructured data]** **[Multiple Categories Problem]** **[Python]** **[Last update: 24/06/20]**
   
   In this project I'll use deep neural networks to create a classifier capable of identifying the breed of a dog given a photo of a dog. I use data from the [Kaggle dog breed identification competition](https://www.kaggle.com/c/dog-breed-identification/overview), in which the submissions are evaluated on _Multi Class Log Loss_ between the predicted probability and the observed target. The model used, [mobilenet_v2_130_224](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4) reached a _Log Loss_ of ≈0.97 when submitting the test dataset predictions to _Late Submission_. I went through:
   
@@ -44,7 +44,7 @@ _Note: There is still work to do in this project_
   
 ### [Bulldozer Price Prediction](https://github.com/JAMorello/data-science-exercises/blob/master/Machine%20Learning/bulldozer-price-prediction-project/bulldozer-price-prediction-project.ipynb)
 
-  **[Structured data]** **[Regression Problem]** **[Last update: 19/06/20]**
+  **[Structured data]** **[Regression Problem]** **[Python]** **[Last update: 19/06/20]**
   
   Using data from an old [Kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/data), I try to predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for. The evaluation metric used was the RMSLE (root mean squared log error) between the actual and predicted auction prices. I went through:
   
@@ -58,7 +58,7 @@ _Note: went through some problems with the RMSLE formula_
 
 ### [Heart Disease Prediction](https://github.com/JAMorello/data-science-exercises/blob/master/Machine%20Learning/heart_disease_project/heart_disease_ml.ipynb)
 
-  **[Structured data]** **[Classification Problem]** **[Last update: 16/06/20]**
+  **[Structured data]** **[Classification Problem]** **[Python]** **[Last update: 16/06/20]**
 
   Using data from UCI Machine Learning Repository, we try to we predict wheter or not a patient could have heart disease given his/her clinical parameters. The model, a Random Forest Classifier, reached an accuracy, precision, recall, and F1 score of ≈80%. I went through:
   
@@ -73,7 +73,7 @@ _Note: went through some problems with the RMSLE formula_
 
 ### [Titanic](https://github.com/JAMorello/data-science-exercises/blob/master/Machine%20Learning/Titanic/Titanic%2C%20ML%20from%20disaster.ipynb)
 
-  **[Structured data]** **[Classification Problem]** **[Last update: 10/05/20]**
+  **[Structured data]** **[Classification Problem]** **[Python]** **[Last update: 10/05/20]**
   
   This is a competition in Kaggle, the first challenge for newcommers to dive into ML competitions and familiarize 
   themselves with how the platform works. The competition is simple: use machine learning to create a model that predicts 
