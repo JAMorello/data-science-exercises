@@ -92,12 +92,12 @@ Legend: :ballot_box_with_check: Currently doing :white_check_mark: Finished
 ### Courses
 
 * :white_check_mark: [Data Science Specialization by John Hopkins University](https://www.coursera.org/specializations/jhu-data-science)
-Repository with all course assignments: [here](https://github.com/JAMorello/datasciencecoursera)
-All certifications of the course: [here](https://github.com/JAMorello/data-science-exercises/tree/master/Certificates/Data%20Science%20Specialization)
+    * Repository with all course assignments: [here](https://github.com/JAMorello/datasciencecoursera)
+    * All certifications of the course: [here](https://github.com/JAMorello/data-science-exercises/tree/master/Certificates/Data%20Science%20Specialization)
 * :white_check_mark: [Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
-Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Python%20ZTM.pdf)
+    * Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Python%20ZTM.pdf)
 * :white_check_mark: [Complete Machine Learning and Data Science: Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Machine%20Learning%20ZTM.pdf)
+    * Certification: [here](https://github.com/JAMorello/data-science-exercises/blob/master/Certificates/Udemy/Udemy%20-%20Machine%20Learning%20ZTM.pdf)
 * [Statistics 110: Probability](https://www.edx.org/course/introduction-to-probability)
 * [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics)
 
