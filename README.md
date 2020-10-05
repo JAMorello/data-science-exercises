@@ -23,13 +23,11 @@ Table of Contents
 
 **[Unstructured data]** **[Natural Language Processing]** **[Last update: 01/10/20]**
 
-The source code is available [here](https://github.com/JAMorello/datasciencecoursera/tree/master/Data%20Science%20Capstone)
+This is the Data Science Capstone project of the Data Science Specialization on Coursera. The goal of the capstone project was to create an algorithm for predicting the next word given one or more words (a phrase/sentence) as input. Natural language processing techniques were be used to perform an analysis and to build a predictive model. A large corpus of more than 4 million documents was loaded, sampled, tokenized and analyzed. N-grams (1 to 4) were extracted from the corpus and then used for building the predictive model.
 
 The Shiny application can be visualized [here](https://jamorello.shinyapps.io/WordPredictor/)
 
 You can see a RMarkdown Report [here](https://rpubs.com/Katriel/dsc-milestone-report)
-
-And presentation slides [here](https://rpubs.com/Katriel/dsc-presentation)
 
 ### [Dog Breed Detector](https://github.com/JAMorello/data-science-exercises/blob/master/Deep%20Learning/dog-breed-identification/dog_breed_detection.ipynb)
 
