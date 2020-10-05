@@ -1,6 +1,6 @@
 # Predictive Text Web App
 
-![Banner](data/predictive_text.jpg)
+![Banner](./data/predictive_text.jpg)
 
 The Shiny application can be visualized [here](https://jamorello.shinyapps.io/WordPredictor/)
 
